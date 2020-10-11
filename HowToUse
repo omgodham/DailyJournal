@@ -1,0 +1,4 @@
+Steps:
+1.To make new post do  https://aqueous-eyrie-47048.herokuapp.com/compose
+2.Add your Title and Post and hit post
+3.To see your post directly just type https://aqueous-eyrie-47048.herokuapp.com/posts/titleofyourpost
